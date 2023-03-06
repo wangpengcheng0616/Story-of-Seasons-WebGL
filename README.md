@@ -1,2 +1,5 @@
 # Story-of-Seasons-WebGL
-[Project](https://github.com/wangpengcheng0616/Story-of-Seasons)
+
+******
+
+Repositories：[https://github.com/wangpengcheng0616/Story-of-Seasons](https://github.com/wangpengcheng0616/Story-of-Seasons)
